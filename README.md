@@ -1,4 +1,7 @@
-## Bem-vindo ao meu perfil
+## 🤗Bem-vindo ao meu perfil
+
+### 📚Cursando Análise e Desenvolvimento na Faculdade Impacta Tecnologia
+
 
 <div align="center">
   <a href="https://github.com/matheusbalbino1">

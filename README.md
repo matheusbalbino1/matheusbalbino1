@@ -1,6 +1,6 @@
 ## Welcome
 
-  I'm Front-End Software Developer and I'm learning Python Django to Back-End
+  😄 I'm Front-End Software Developer and I'm learning Python Django to Back-End
 
  - HTML
  - CSS
@@ -13,7 +13,6 @@
  - REACT HOOKS
  - NEXTJS
  - STYLED-COMPONENTS
- - Learning Python Django
 #
 
 

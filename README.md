@@ -1,11 +1,20 @@
-## 🤗SEJA BEM-VINDO
+## Welcome
 
-### 📚ANALISE E DESENVOLVIMENTO DE SISTEMAS | 02 DE 05
+  I'm Front-End Software Developer and I'm learning Python Django to Back-End
 
-### 😎 HTML, CSS, JAVASCRIPT, TYPESCRIPT, MATERIAL UI, SASS, BOOTSTRAP, REACTJS, REACT HOOKS, NEXTJS, STYLED-COMPONENTS
-
-### 📚 ESTUDANDO PYTHON DJANGO
-
+ - HTML
+ - CSS
+ - JAVASCRIPT
+ - TYPESCRIPT
+ - MATERIAL UI
+ - SASS
+ - BOOTSTRAP
+ - REACTJS
+ - REACT HOOKS
+ - NEXTJS
+ - STYLED-COMPONENTS
+ - Learning Python Django
+#
 
 
 <div align="center">

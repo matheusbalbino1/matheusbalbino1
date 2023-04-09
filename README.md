@@ -1,25 +1,17 @@
 ## Welcome
 
-  😄 I'm Front-End Software Developer and I'm learning Python Django to Back-End
-
- - HTML
- - CSS
+  😄 I'm Front-End Software Developer and I'm learning to be a Fullstack developer
+  
+ - REACTJS
  - JAVASCRIPT
  - TYPESCRIPT
- - MATERIAL UI
- - SASS
- - BOOTSTRAP
- - REACTJS
- - REACT HOOKS
  - NEXTJS
- - STYLED-COMPONENTS
  - PYTHON
  - DJANGO
  - NODEJS
  - ANGULAR
  - MYSQL
  - POSTGREESQL
-#
 
 
 <div align="center">

@@ -1,6 +1,6 @@
 ## Welcome
 
-  😄 I'm a Front-End Software Developer and I'm studying to be a Fullstack developer
+  😄 I'm a Fullstack developer
   
  - REACTJS
  - JAVASCRIPT

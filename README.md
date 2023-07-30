@@ -1,6 +1,6 @@
 ## Welcome
 
-  😄 I'm a Fullstack developer
+  😄 I'm a Software Developer
   
  - REACTJS
  - JAVASCRIPT

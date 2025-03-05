@@ -1,6 +1,8 @@
 ## Welcome
 
-  😄 I'm a Software Developer
+  As a FullStack developer with two years of experience in web development, I highlight my proficiency in creating dynamic interfaces using ReactJS and Angular, integrating them with RestAPIs and Websockets. On the Back-End, I have used Django to build robust RestAPIs and NestJS to implement Websockets, efficiently storing data in PostgreSQL and MySQL. Additionally, I have enhanced my skills in asynchronous communication by sending and consuming messages through RabbitMQ. I have a special interest in both Front-End and Back-End development, utilizing technologies such as ReactJS, Angular, NestJS, and Django. I am completely open to learning new technologies, believing that continuous evolution is essential in the technological landscape.
+
+"I may not know, but I will certainly do everything to learn."
   
  - REACTJS
  - JAVASCRIPT
